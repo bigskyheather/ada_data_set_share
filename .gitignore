@@ -1,3 +1,14 @@
+# authentication
+API_keys.py
+
+#data
+*.txt
+*.csv
+
+# write up
+*.docx
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
